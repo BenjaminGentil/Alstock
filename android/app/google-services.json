@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "538339246387",
+    "project_id": "alstockv2",
+    "storage_bucket": "alstockv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:a9d6c4379df578f446be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.alstock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:b2095853426b366046be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.alstockfinalweb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:f644163a1f97791a46be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.alstockv100"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:0cb1d0f20d88667d46be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.alstockv1598"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:605c64a6c754469146be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.alstockv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:f5ec9867d552195246be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.alstockv4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:fd11aa472a3821d146be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.alstockv7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:96cdf5617699cf6646be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.alstockv8final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:fc5eb415c518bebb46be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.stockify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:b013313a6a34051946be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.stockifyv140"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538339246387:android:8049c8f7b732123c46be46",
+        "android_client_info": {
+          "package_name": "com.mycompany.stockifyv3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvDm_vbPGj7xvv0XTNS8KY1L8a85cEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
